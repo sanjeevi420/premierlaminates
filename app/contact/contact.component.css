@@ -1,0 +1,14 @@
+.intr2{
+    background-image: url("../../assets/contact.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+    width: 1350px;
+}
+
+.con{
+    font-family: 'ELMESSIRI-MEDIUM__subset', "ELMESSIRI-MEDIUM";
+    font-style: italic;
+    font-size: xx-large;
+    word-spacing: 6px;
+}

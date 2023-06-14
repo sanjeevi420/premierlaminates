@@ -1,0 +1,83 @@
+.abt{
+    height: 250px;
+    width: 200px;
+    background-image: url("../../assets/aboutus.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.intro{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #000;
+}
+.blog{
+    font-family: 'COMFORTAA-VARIABLEFONT_WGHT__subset', COMFORTAA-VARIABLEFONT_WGHT, "open sans", Georgia;
+    padding: 30px;
+    color: #000;
+    background-color: #ffffff;
+    opacity: 0.7;
+    width: 30px;
+    border-radius: 12%;
+    border-style: solid;
+}
+.intr{
+    background-image: url("../../assets/im.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+    width: 1350px;
+}
+
+.intr1{
+    background-image: url("../../assets/im1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+    width: 1350px;
+}
+
+.intr2{
+    background-image: url("../../assets/im2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+    width: 1350px;
+}
+
+.godown{
+    height: 200px;
+    width: 200px;
+}
+
+.ab{
+    height: 300px;
+    width: 20px;
+    top: 320px;
+}
+
+.banner{
+    text-align: center;
+}
+
+.pill{
+    padding: 30px;
+}
+
+.pics{
+    border-radius: 20%;
+}
+
+.brand{
+    border: 3%;
+    height: 50rem;
+}
+
+.number{
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 150px;
+}
+
+
